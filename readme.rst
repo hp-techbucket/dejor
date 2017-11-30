@@ -2,4 +2,4 @@
 DEJOR
 ###################
 
-eCommerce Platform For Automobiles
+Automobile ecommerce platform developed in Codeigniter, Bootstrap and Google Material Design.
